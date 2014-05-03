@@ -4,7 +4,6 @@ libtool
 sdl2-config
 sdl2.pc
 config.*
-configure
 SDL2.spec
 autom4te.*
 include/SDL_config.h
